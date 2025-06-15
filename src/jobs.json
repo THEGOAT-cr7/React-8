@@ -1,86 +1,42 @@
 [
   {
-    "company": "Photoshop",
-    "title": "Senior Frontend Developer",
-    "type": "Full-time",
-    "location": "USA only",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "posted": "24 ago",
-    "featured": "Featured",
-    "new": "New!"
+    "club": "Real Madrid",
+    "name": "Kylian Mbappé",
+    "position": "Striker",
+    "number": "9",
+    "contract": "5 years",
+    "oldclubs": ["Monaco", "PSG"]
   },
   {
-    "company": "Fullstack Developer",
-    "title": "Manager",
-    "type": "Part-time, Remote",
-    "location": null,
-    "skills": ["Python", "React"],
-    "posted": null,
-    "featured": "Featured",
-    "new": "New!"
+    "club": "Real Madrid",
+    "name": "Jude Bellingham",
+    "position": "Midfielder",
+    "number": "5",
+    "contract": "5 years",
+    "oldclubs": ["Borussia Dortmund"]
   },
   {
-    "company": "Account",
-    "title": "Junior Frontend Developer",
-    "type": "Part-time",
-    "location": "USA only",
-    "skills": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
-    "posted": "24 ago"
+    "club": "Real Madrid",
+    "name": "Vinícius Jr.",
+    "position": "Winger",
+    "number": "7",
+    "contract": "6 years",
+    "oldclubs": ["Flamengo"]
   },
   {
-    "company": "MyJob",
-    "title": "Junior Frontend Developer",
-    "type": "Contract",
-    "location": "USA only",
-    "skills": ["Frontend", "Junior", "CSS", "JavaScript"],
-    "posted": "24 ago"
+    "club": "Real Madrid",
+    "name": "Rodrygo Goes",
+    "position": "Winger",
+    "number": "11",
+    "contract": "3 years",
+    "oldclubs": ["Santos"]
   },
   {
-    "company": "Ioog Studios",
-    "title": "Software Engineer",
-    "type": "Full-time",
-    "location": "Worldwide",
-    "skills": ["Frontend", "Midweight", "JavaScript", "Sass", "Ruby"],
-    "posted": null
-  },
-  {
-    "company": null,
-    "title": "Junior Backend Developer",
-    "type": "Full-time",
-    "location": "UK only",
-    "skills": ["Backend", "Junior", "Ruby", "Rails"],
-    "posted": null
-  },
-  {
-    "company": "Sherry",
-    "title": "Junior Developer",
-    "type": null,
-    "location": "Worldwide",
-    "skills": ["Frontend", "Junior", "HTML", "Sass", "JavaScript"],
-    "posted": "2 ago"
-  },
-  {
-    "company": "Insure",
-    "title": "Junior Frontend Developer",
-    "type": null,
-    "location": "USA only",
-    "skills": ["Frontend", "Junior", "Vue", "JavaScript", "Sass"],
-    "posted": null
-  },
-  {
-    "company": "ECAM",
-    "title": "Full Stack Engineer",
-    "type": "Full-time",
-    "location": "Worldwide",
-    "skills": ["Fullstack", "Midweight", "JavaScript", "Sass", "Python"],
-    "posted": "24 ago"
-  },
-  {
-    "company": "The Air Filter Company",
-    "title": "Front-end Dev",
-    "type": "Part-time",
-    "location": "Worldwide",
-    "skills": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
-    "posted": null
+    "club": "Real Madrid",
+    "name": "Trent Alexander-Arnold",
+    "position": "Right Back",
+    "number": "12",
+    "contract": "6 years",
+    "oldclubs": ["Liverpool"]
   }
 ]
