@@ -1,0 +1,56 @@
+[
+  {
+    "img": "mbappe.png",
+    "club": "Real Madrid",
+    "name": "Kylian Mbappé",
+    "position": "Striker",
+    "number": "9",
+    "contract": "5 years",
+    "oldclubs": ["Monaco", "PSG"]
+  },
+  {
+    "img": "haaland.png",
+    "club": "Manchester City",
+    "name": "Erling Haaland",
+    "position": "Striker",
+    "number": "9",
+    "contract": "4 years",
+    "oldclubs": ["Dortmund", "Salzburg"]
+  },
+  {
+    "img": "neymar.png",
+    "club": "Al Hilal",
+    "name": "Neymar Jr.",
+    "position": "Forward",
+    "number": "10",
+    "contract": "2 years",
+    "oldclubs": ["Barcelona", "PSG", "Santos"]
+  },
+  {
+    "img": "bellingham.png",
+    "club": "Real Madrid",
+    "name": "Jude Bellingham",
+    "position": "Midfielder",
+    "number": "5",
+    "contract": "6 years",
+    "oldclubs": ["Birmingham", "Dortmund"]
+  },
+  {
+    "img": "ronaldo.png",
+    "club": "Al Nassr",
+    "name": "Cristiano Ronaldo",
+    "position": "Striker",
+    "number": "7",
+    "contract": "2 years",
+    "oldclubs": ["Sporting", "Manchester United", "Real Madrid", "Juventus"]
+  },
+  {
+    "img": "messi.png",
+    "club": "Inter Miami",
+    "name": "Lionel Messi",
+    "position": "Forward",
+    "number": "10",
+    "contract": "2 years",
+    "oldclubs": ["Barcelona", "PSG"]
+  }
+]

@@ -1,18 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 import Header from "./components/Header";
-import video from "./assets/main.mp4";
 import Players from "./components/Players";
 
-const App = () => {
+function App() {
+  const [filter, setFilter] = useState("");
+
   return (
-    <div className="h-[700px] container mx-auto relative">
-      <Header />
-      <video loop muted autoPlay className="fixed right-0 top-0 h-[700px] w-full object-cover z-[-1] blur-[1px]">
-        <source src={video} type="video/mp4" />
-      </video>
-      <Players/>
+    <div className="w-full min-h-screen flex flex-col bg-gradient-to-br from-blue-50 to-blue-100 font-sans">
+      <Header filter={filter} setFilter={setFilter} />
+      <Players filter={filter} setFilter={setFilter} />
+      <footer className="w-full text-center py-4 bg-blue-200 text-gray-800 font-semibold shadow-inner">
+        Made by Asadbek Tursunaliyev
+      </footer>
     </div>
   );
-};
+}
 
 export default App;
